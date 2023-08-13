@@ -1,0 +1,147 @@
+*{
+    background-color: #EEE0C9;
+}
+h1{
+    background-color: #ADC4CE;
+}
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-weight: 200;
+    text-align:justify;
+}
+#sobre {
+
+    text-align: center;
+    font-size:xx-large;
+}
+#Hobbies {
+    text-align: right;
+}
+#Likes {
+
+    text-align: right;
+}
+
+p{
+    text-align:left  ;
+}
+
+#serie {
+
+    text-align: left;
+    background-color:#96B6C5;
+}
+#Grandmother {
+    text-align: center;
+    display: inline-block;
+
+
+}
+
+#a{
+
+    background-color: #ADC4CE;
+
+}
+.serie {
+
+    background-color:#96B6C5;
+    color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+.leon {
+    background-color:#96B6C5;
+    color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  font-size: 15px;
+
+}
+.food {
+
+    background-color:#96B6C5;
+    color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+div.Nacer {
+    width: 50%;
+  margin: 20px auto;
+  background-color:#EEE0C9;
+  color:black;
+  padding: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-size: 15px;
+}
+div.Nacer img.izquierda {
+    float: left;
+    margin-right: 15px;
+    height: 250px;
+    width: 250px;
+  }
+div.Nico {
+    width: 50%;
+  margin: 20px auto;
+  background-color:#EEE0C9;
+  color:black;
+  padding: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+
+
+}
+div.Nico img.derecha {
+    float: right;
+    margin-left: 15px;
+    height: 200px;
+    width: 200px;
+  }
+  div.ME {
+    width: 50%;
+  margin: 20px auto;
+  background-color:#EEE0C9;
+  color:black;
+  padding: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+  }
+  div.ME img.izquierda1 {
+    float: left;
+    margin-right: 15px;
+    height: 250px;
+    width: 250px;
+  }
+  
+img {
+    height: 200px;
+    width: 200px;
+}
+.casa{
+    background-color:#96B6C5;
+    color: white;
+  
+  text-decoration: none;
+  font-size: 15px;
+
+}
+.Hobbie{
+    
+    background-color:#96B6C5;
+    color: white;
+  text-decoration: none;
+  font-size: 15px;
+  
+
+}
+.like{
+    background-color:#96B6C5;
+    color: white;
+  
+  text-decoration: none;
+  font-size: 15px;
+  text-align: right;
+
+}
